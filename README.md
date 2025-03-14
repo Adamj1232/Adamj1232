@@ -4,13 +4,13 @@
 
 <p align="center">
   <em>Full Stack | Coding to the beat of innovation</em>
-    <a href="https://www.linkedin.com/in/adam-joseph-carpenter">
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adam-joseph-carpenter">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  Full Stack Developer specializing in App development and Web3 technologies with 8+ years of experience building scalable applications. Passionate about elegant and efficient user interfaces, beautiful code architecture and music.
-</p>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
