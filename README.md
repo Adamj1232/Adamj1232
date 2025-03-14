@@ -2,15 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header&text=RHYTHM_ENGINEER&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Coding%20to%20the%20beat%20of%20innovation&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<p align="center">
-  <em>Full Stack | Coding to the beat of innovation</em>
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-joseph-carpenter">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+<p align="center" style="font-size:24px;">
+  <em>Full Stack | Coding to the beat of innovation</em>
+</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
