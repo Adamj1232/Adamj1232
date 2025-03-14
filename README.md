@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header&text=RHYTHM_ENGINEER&fontSize=30&fontColor=white&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header" width="100%"/>
+  
+  <h1 style="margin-top:-70px; margin-bottom:50px; color:white; font-size:40px;">
+    RHYTHM_ENGINEER
+  </h1>
 </div>
 
 <p align="center">
