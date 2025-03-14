@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+</br>
+
 <div align="center" style="font-size:24px;">
   <h3>Full Stack | Coding to the beat of innovation</h3>
 </div>
