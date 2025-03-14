@@ -1,65 +1,82 @@
-# 🎵 RHYTHM_ENGINEER
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5631&height=120&section=header&text=RHYTHM_ENGINEER&fontSize=30&fontColor=white&animation=fadeIn" width="100%"/>
+</div>
 
-> Full Stack Developer | Coding to the beat of innovation
+<p align="center">
+  <em>Full Stack Developer | Coding to the beat of innovation</em>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adamj1232&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1a3a2a&icon_color=6b4e8a&text_color=ffffff" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamj1232&theme=dark&hide_border=true&background=0D1117&ring=1a3a2a&fire=6b4e8a&currStreakLabel=6b4e8a" />
-</div>
-
-## 🎼 Language Composition
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamj1232&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1a3a2a&text_color=ffffff" width="495px" />
-</div>
-
-## 📈 Contribution Cadence
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Adamj1232&bg_color=0D1117&color=1a3a2a&line=6b4e8a&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-1a3a2a?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1a3a2a?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-1a3a2a?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-1a3a2a?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1a3a2a?style=for-the-badge&logo=python&logoColor=white" />
-</div>
-
-## 🏆 Harmonious Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adamj1232&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
-## 🎹 Featured Compositions
-
-<div align="center">
-  <a href="https://github.com/Adamj1232/your-repo-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamj1232&repo=web3-onboard&theme=dark&hide_border=true&bg_color=0D1117&title_color=1a3a2a&icon_color=6b4e8a" />
-  </a>
-  <a href="https://github.com/Adamj1232/your-repo-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamj1232&repo=web3-onboard&theme=dark&hide_border=true&bg_color=0D1117&title_color=1a3a2a&icon_color=6b4e8a" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/Adamj1232">
-    <img src="https://komarev.com/ghpvc/?username=Adamj1232&style=for-the-badge&color=1a3a2a&label=Profile+Views" />
-  </a>
-  <a href="https://github.com/Adamj1232?tab=followers">
-    <img src="https://img.shields.io/github/followers/Adamj1232?style=for-the-badge&color=1a3a2a&labelColor=0D1117&logo=github" />
-  </a>
+  <h2>🎵 GitHub Symphony</h2>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a3a2a&height=100&section=footer" width="100%" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Adamj1232&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=3bac71&icon_color=845ec2&text_color=ffffff&count_private=true" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adamj1232&theme=vue-dark&hide_border=true&background=0D1117&ring=3bac71&fire=845ec2&currStreakLabel=ffffff" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h2>🎼 Language Composition</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamj1232&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=3bac71&text_color=ffffff&count_private=true" width="495px" />
+  
+  <p align="center" style="font-size:12px; color:#888888;">
+    <em>Note: If Rust isn't appearing, GitHub stats may be refreshing or not tracking all repositories</em>
+  </p>
+</div>
+
+<div align="center">
+  <h2>📈 Contribution Cadence</h2>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adamj1232&theme=vue" width="100%" />
+</div>
+
+<div align="center">
+  <h2>🏆 Harmonious Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adamj1232&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true" />
+</div>
+
+<div align="center">
+  <h2>🎹 Featured Compositions</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Adamj1232/your-repo-1">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamj1232&repo=your-repo-1&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=3bac71&icon_color=845ec2" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Adamj1232/your-repo-2">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamj1232&repo=your-repo-2&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=3bac71&icon_color=845ec2" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adamj1232&style=for-the-badge&color=3bac71&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/Adamj1232?style=for-the-badge&color=3bac71&labelColor=0D1117&logo=github" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e5631&height=100&section=footer" width="100%" />
 </div>
