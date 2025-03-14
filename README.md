@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header" width="100%"/>
-  
-  <h1 style="margin-top:-70px; margin-bottom:50px; color:white; font-size:40px;">
-    RHYTHM_ENGINEER
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header&text=RHYTHM_ENGINEER&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Coding%20to%20the%20beat%20of%20innovation&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <p align="center">
