@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header&text=RHYTHM_ENGINEER&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20Developer%20|%20Coding%20to%20the%20beat%20of%20innovation&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=header&text=RHYTHM_ENGINEER&fontSize=40&fontColor=ffffff&fontAlignY=30&desc=Full%20Stack%20|%20Coding%20to%20the%20beat%20of%20innovation&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,10 +9,6 @@
 </div>
 
 </br>
-
-<div align="center" style="font-size:24px;">
-  <h3>Full Stack | Coding to the beat of innovation</h3>
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
