@@ -66,8 +66,8 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <a href="https://github.com/Adamj1232/your-repo-2">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Adamj1232&repo=your-repo-2&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=3bac71&icon_color=845ec2" />
+        <a href="https://github.com/blocknative/react-demo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=blocknative&repo=react-demo&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=3bac71&icon_color=845ec2" />
         </a>
       </td>
     </tr>
