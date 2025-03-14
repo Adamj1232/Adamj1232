@@ -7,9 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-<p align="center" style="font-size:24px;">
-  <em>Full Stack | Coding to the beat of innovation</em>
-</p>
+<div align="center" style="font-size:24px;">
+  <h3>Full Stack | Coding to the beat of innovation</h3>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
