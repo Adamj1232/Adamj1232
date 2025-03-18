@@ -36,8 +36,7 @@
 
 <div align="center">
   <h2>🎼 Language Composition</h2>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=adamj1232&skills=typescript,javascript,react,svelte,rust&width=820" />
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamj1232&layout=compact&langs_count=8&hide=html,css&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=4ade80&text_color=ffffff" />  
   <p align="center" style="font-size:12px; color:#888888;">
     <em>Note: If Rust isn't appearing, GitHub stats may be refreshing or not tracking all repositories</em>
   </p>
