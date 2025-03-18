@@ -36,13 +36,13 @@
 
 <div align="center">
   <h2>🎼 Language Composition</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Svelte-Intermediate-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/Svelte-Advanced-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  </div>
   <p align="center" style="font-size:12px; color:#888888;">
     <em>Note: If Rust isn't appearing, GitHub stats may be refreshing or not tracking all repositories</em>
   </p>
