@@ -36,7 +36,13 @@
 
 <div align="center">
   <h2>🎼 Language Composition</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adamj1232&layout=compact&langs_count=8&hide=html,css&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=4ade80&text_color=ffffff" />  
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Svelte-Intermediate-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</div>
   <p align="center" style="font-size:12px; color:#888888;">
     <em>Note: If Rust isn't appearing, GitHub stats may be refreshing or not tracking all repositories</em>
   </p>
