@@ -48,7 +48,7 @@
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>📈 Contribution Cadence</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adamj1232&theme=vue" width="100%" />
 </div>
@@ -56,7 +56,7 @@
 <div align="center">
   <h2>🏆 Harmonious Achievements</h2>
   <img src="https://github-profile-trophy.vercel.app/?username=Adamj1232&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7&no-bg=true" />
-</div>
+</div> -->
 
 <div align="center">
   <h2>🎹 Featured Compositions</h2>
