@@ -48,10 +48,10 @@
   </p>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <h2>📈 Contribution Cadence</h2>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adamj1232&theme=vue" width="100%" />
-</div>
+</div> -->
 
 <div align="center">
   <h2>🏆 Harmonious Achievements</h2>
